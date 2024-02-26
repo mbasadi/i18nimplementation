@@ -7,7 +7,7 @@ export default function Home() {
   return (
 
       <div>
-        <NotificationAPIComponent />
+        <NotificationAPIComponent userId="mohammad+testNext@notificationapi.com"/>
       </div>
 
   );
